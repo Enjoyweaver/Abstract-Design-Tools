@@ -1,3 +1,3 @@
-# [franciscouzo.github.io](https://franciscouzo.github.io)
+This is a clone of the repe from [franciscouzo.github.io](https://franciscouzo.github.io)
 
-This is my personal webpage that I mainly use for uploading HTML5 demos, you can find the live version [here](https://franciscouzo.github.io/).
+
