@@ -1,3 +1,3 @@
-This is a clone of the repe from [franciscouzo.github.io](https://franciscouzo.github.io)
+This is a clone of the repo from [franciscouzo.github.io](https://franciscouzo.github.io)
 
 
