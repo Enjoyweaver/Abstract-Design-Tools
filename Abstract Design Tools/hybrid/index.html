@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>Hybrid Images</title>
+        <meta charset="utf-8">
+        <link href="../font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="../css/main.css" rel="stylesheet" type="text/css">
+        <style>
+            div {
+                position: absolute;
+                right: 0px;
+                top: 10px;
+            }
+        </style>
+        <script src="fft.js"></script>
+        <script src="hybrid.js"></script>
+    </head>
+    <body>
+        <span id="top-left"><a href="/"><i class="fa fa-arrow-left"></i></a> <a href="/">Go back</a> <small><small>You can drag images with your mouse, press ctrl to resize them</small></small></span>
+        <center>
+            <canvas id="canvas">Your browser doesn't supports canvas.</canvas>
+        </center>
+        <div>
+            <input type="file" id="image_upload1" accept="image/*" /> <small>(near)</small><br />
+            <input type="file" id="image_upload2" accept="image/*" /> <small>(far)</small>
+        </div>
+    </body>
+</html>
